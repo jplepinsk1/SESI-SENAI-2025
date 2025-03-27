@@ -1,0 +1,192 @@
+/* DOCUMENTO CSS */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	height: 100vh;
+	background-color: #111;
+}
+
+header {
+	padding-top: 8%;
+	width: 100%;
+	height: 100px;
+	display: flex;
+    /* background-image: linear-gradient( to bottom, #ED1C24 80%, #950d15 ); */
+	border-bottom: 1px solid #586654;
+	justify-content: left;
+	align-items: center;
+	color: #fff;
+	padding: 10px;
+	
+	
+}
+
+header figure {
+	width: 15%;
+	margin-left: 10%;
+	margin-right: 4%;
+}
+header figure img {
+	width: 100%;
+}
+header h1 span {
+	font-size: 15px;
+	font-weight: 100;
+	margin-left: 10px;
+	line-height: 0;
+	text-shadow: none;
+}
+header h1 {
+	font-size: 1.8rem;
+	/* text-shadow: 1px 1px 5px rgb(68, 67, 67); */
+	margin-bottom: 10px;
+}
+header p {
+	font-size: 16px;
+	/* text-shadow: 1px 1px 5px black; */
+	margin-bottom: 10px;
+}
+#frase {
+	color: #E42252;
+	height: 30px;
+	padding: 10px;
+	font-size: 20px;
+	margin-left: 10%;
+	margin-top: 10px;
+}
+main {
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	padding: 5%;
+	flex-wrap: wrap;
+	gap:9%;
+}
+
+.boxaluno {
+	width: 200px;
+	min-height: 200px;
+	border-radius: 10px;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	align-items: center;
+	padding: 15px 20px 10px 20px;
+	/* background-image: linear-gradient( to bottom right, #ED1C24 60%, #950d15 );  */
+	background-color: #E42252;
+	margin:0 10px 40px 10px;
+	transition: ease 0.3s;
+
+}
+
+.boxaluno h2{
+	text-shadow: 1px 1px 5px black;
+	color: #FFF;
+	text-align: center;
+	font-size: 1rem;
+	font-weight: 300;
+	height: 50px;
+	margin-bottom: 10px;
+
+}
+.boxaluno:hover {
+	background-color: #111;
+	border: 1px solid #E42252;;
+}
+
+footer {
+	width: 100%;
+	height: 50px;
+background-image: linear-gradient( to bottom, #ED1C24 60%, #950d15 ); 
+text-align: center;
+padding-top: 20px;
+color: white;
+font-style: italic;
+}
+
+
+.boxaluno p{
+	margin: 0px 90px 10px 0;
+	color: white;
+	font-size: 14px;
+	font-weight: none;
+}
+.boxaluno button {
+	width: 150px;
+	height: 90px;
+	cursor: pointer;
+	border: none;
+	font-weight: 300;
+	color: white;
+	height: 30px;
+	border-radius: 4px;
+	background: linear-gradient(to bottom,#37bc16,#1c590c);
+	margin-bottom: 10px;
+}
+.boxaluno button:hover {
+	font-weight: 700;
+}
+.boxaluno button:disabled {
+	background: linear-gradient(to bottom,#586654,#242922);
+	cursor:not-allowed;
+}
+
+.backtotop {
+	margin-bottom: 1%;
+	width: 100%;
+	text-align: center;
+	color: #950d15;
+	
+}
+
+@media only screen and (max-width: 600px) {
+
+	.boxaluno {width: 100%;}
+	header {width: 100%;
+		flex-direction: column; 
+		height: 250px;
+		justify-content: center;
+		align-items: center;
+		margin: 0 auto;
+		padding: 5%;
+	
+	}
+	header figure {
+	width: 80%;
+	margin: 0 auto;
+	padding: 0;	
+}
+header figure img {
+	width: 100%
+}
+ main {
+	margin: 10px auto;
+	padding-left:  20px;
+	justify-content: center;
+ }
+.boxaluno h2 {
+	font-size: 1.3rem;
+ margin-bottom: 5%;
+}
+ .boxaluno button {
+	width: 250px;
+	height: 70px;
+	font-size: 1.4rem;
+
+ }
+ .backtotop {
+	margin-bottom: 3%;
+	font-size: 1.4rem;
+}
+
+}
