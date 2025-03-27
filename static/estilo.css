@@ -75,7 +75,7 @@ main {
 
 .boxaluno {
 	width: 200px;
-	min-height: 200px;
+	min-height: 150px;
 	border-radius: 10px;
 	display: flex;
 	flex-wrap: wrap;
@@ -136,7 +136,7 @@ font-style: italic;
 .boxaluno button:hover {
 	font-weight: 700;
 }
-.boxaluno button:disabled {
+.boxaluno button[disabled] {
 	background: linear-gradient(to bottom,#586654,#242922);
 	cursor:not-allowed;
 }

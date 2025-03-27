@@ -28,8 +28,14 @@
 		{% for aluno in alunos %}
 		<section class="boxaluno">
 			<h2>{{ aluno.nome }}</h2>
+			{% if aluno.cards %}
 			<a href="{{aluno.cards}}" target="_blank">
 				<button>Cards</button></a>
+			{% else %}
+			<a href="#">
+				<button  disabled>Cards</button></a>
+			{% endif %}
+				
 
 			<!-- <a href="https://anapaulamaximo.github.io/Mega-Burguer/" target="_blank">
 				<button>Cardápio Digital</button></a>
