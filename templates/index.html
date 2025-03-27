@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>SESI SENAI 2025 - ITAPEVA</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="../static/estilo.css">
+	<link rel="icon" type="image/png" sizes="16x16" href="../static/favicon-16x16.png">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+	<header id="topo">
+		<figure>
+			<img src="../static/logo.png">
+		</figure>
+		<section id="logo">
+			<h1><span>Curso técnico em</span><br> Desenvolvimento de Sistemas</h1>
+			<p>SESI SENAI ITAPEVA - 2025 - 5º Itinerário Formativo</p>
+		</section>
+	</header>
+	<div id="frase">
+		<p>Portfólio de projetos desenvolvidos na Unidade Curricular Linguagem de Marcação.</p>
+	</div>
+
+	<main>
+		{% for aluno in alunos %}
+		<section class="boxaluno">
+			<h2>{{ aluno.nome }}</h2>
+			<a href="{{aluno.cards}}" target="_blank">
+				<button>Cards</button></a>
+
+			<!-- <a href="https://anapaulamaximo.github.io/Mega-Burguer/" target="_blank">
+				<button>Cardápio Digital</button></a>
+
+			<a href="https://anapaulamaximo.github.io/Projeto-BioGraphs/" target="_blank">
+				<button>Biografia</button></a>
+
+			<a href="https://anapaulamaximo.github.io/Formulario/" target="_blank">
+				<button>Formulário</button></a> -->
+
+		</section>
+		{% endfor %}
+
+
+	</main>
+
+
+	<p class="backtotop"><a href="#topo">Voltar para o topo</a></p>
+	<footer>
+		<p>SESI SENAI - ITAPEVA - 2024</p>
+	</footer>
+
+</body>
+
+</html>
