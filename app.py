@@ -7,8 +7,6 @@ alunos = [
       'cards':''},
     {'nome':'Beatriz Sousa de Andrade',
       'cards':''},
-    {'nome':'Beatriz Sousa de Andrade',
-      'cards':''},
     {'nome':'Daniel Pupo de Morais Santos',
      'cards':''},
     {'nome':'Emannoel Henrique Soares de Oliveira',

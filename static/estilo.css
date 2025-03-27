@@ -61,8 +61,8 @@ header p {
 	height: 30px;
 	padding: 10px;
 	font-size: 20px;
-	margin-left: 10%;
 	margin-top: 10px;
+	text-align: center;
 }
 main {
 	width: 100%;
@@ -106,12 +106,12 @@ main {
 
 footer {
 	width: 100%;
-	height: 50px;
-background-image: linear-gradient( to bottom, #ED1C24 60%, #950d15 ); 
+	height: 60px;
+	background-color: #E42252;
 text-align: center;
-padding-top: 20px;
+align-content: center;
 color: white;
-font-style: italic;
+font-size: 12px;
 }
 
 
