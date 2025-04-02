@@ -11,18 +11,6 @@ Portfólio dos estudantes do curso Técnico em Desenvolvimento de Sistemas (V It
 - [Tecnologia 2](https://link-da-tecnologia.com)
 - [Tecnologia 3](https://link-da-tecnologia.com)
 
-## 📂 Estrutura do Projeto
-
-```
-📦 cards
-├── 📁 src
-│   ├── index.js
-│   ├── styles.css
-│   └── ...
-├── 📁 assets
-├── README.md
-└── package.json
-```
 
 ## 🔧 Como Executar o Projeto
 
@@ -55,4 +43,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Instrutores João Paulo Lepinsk [Seu Nome](https://github.com/jplepinsk1) e Rafael Ribas [Seu Nome](https://github.com/jplepinsk1)
