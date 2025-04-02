@@ -2,7 +2,8 @@
 
 ## 📌 Sobre o Projeto
 
-**Cards** é um projeto desenvolvido para ... (descreva brevemente a finalidade do projeto).
+Portfólio dos estudantes do curso Técnico em Desenvolvimento de Sistemas (V Itinerário Novo Ensino Médio) - Escola SESI de Itapeva e Escola SENAI Luiz Pagliato Sorocaba.
+**Unidade Curricular - Linguagem de Marcação**
 
 ## 🚀 Tecnologias Utilizadas
 
