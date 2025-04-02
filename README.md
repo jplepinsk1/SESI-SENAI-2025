@@ -1,7 +1,5 @@
 # Portfólio SESI SENAI 2025 - 2º ano EM
 
-![GitHub](https://img.shields.io/github/license/seu-usuario/cards)
-
 ## 📌 Sobre o Projeto
 
 **Cards** é um projeto desenvolvido para ... (descreva brevemente a finalidade do projeto).
