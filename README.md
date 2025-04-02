@@ -7,40 +7,13 @@ Portfólio dos estudantes do curso Técnico em Desenvolvimento de Sistemas (V It
 
 ## 🚀 Tecnologias Utilizadas
 
-- [Tecnologia 1](https://link-da-tecnologia.com)
-- [Tecnologia 2](https://link-da-tecnologia.com)
-- [Tecnologia 3](https://link-da-tecnologia.com)
-
-
-## 🔧 Como Executar o Projeto
-
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/cards.git
-   ```
-2. Acesse o diretório do projeto:
-   ```sh
-   cd cards
-   ```
-3. Instale as dependências:
-   ```sh
-   npm install
-   ```
-4. Execute o projeto:
-   ```sh
-   npm start
-   ```
-
-## 📌 Funcionalidades
-
-- ✅ Funcionalidade 1
-- ✅ Funcionalidade 2
-- ✅ Funcionalidade 3
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/>
+</p>
 
 ---
 
-Instrutores João Paulo Lepinsk [Seu Nome](https://github.com/jplepinsk1) e Rafael Ribas [Seu Nome](https://github.com/jplepinsk1)
+Instrutores [João Paulo Lepinsk](https://github.com/jplepinsk1) e [Rafael Ribas](https://github.com/profRafaelRibas/profRafaelRibas)
