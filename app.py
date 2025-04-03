@@ -58,7 +58,7 @@ alunos = [
     {'nome':'Pedro Vitor Barros de Morais',
      'cards':'https://pedromorais15.github.io/pedro-page'},
     {'nome':'Pietro Rodrigues Torresani Mantuan',
-     'cards':''},
+     'cards':'https://mantuanpietro.github.io/CARDS'},
     {'nome':'Rebeca Diniz Gonçalves',
      'cards':'https://rebecadiniz.github.io/estudo-da-filosofia/'},
     {'nome':'Vinicius Mariozi Oliveira',
