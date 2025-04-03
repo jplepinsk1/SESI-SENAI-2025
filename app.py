@@ -46,7 +46,7 @@ alunos = [
     {'nome':'Mauro José da Silva Junior',
      'cards':''},
     {'nome':'Mayara Alves de Oliveira',
-     'cards':'https://mayaa-lves.github.io/books.cards2'},
+     'cards':'https://mayaa-lves.github.io/books.cards.b'},
     {'nome':'Nicolly Oliveira dos Santos',
      'cards':'https://nicollyoliveiras.github.io/Cards.oth'},
     {'nome':'Pablo Gomes da Silva',
