@@ -44,7 +44,7 @@ alunos = [
     {'nome':'Maria Júllia Schimidt Ott Prestes',
      'cards':'https://mariajschimidt.github.io/flores-tipos'},
     {'nome':'Mauro José da Silva Junior',
-     'cards':''},
+     'cards':'https://omaurojunior.github.io/Estruturando-site'},
     {'nome':'Mayara Alves de Oliveira',
      'cards':'https://mayaa-lves.github.io/books.cards.b'},
     {'nome':'Nicolly Oliveira dos Santos',
