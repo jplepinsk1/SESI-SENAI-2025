@@ -25,20 +25,32 @@
 	</div>
 
 	<main>
-		{% for aluno in alunos %}
+		{% for card in cards %}
 		<section class="boxaluno">
-			<h2>{{ aluno.nome }}</h2>
-			{% if aluno.cards %}
-			<a href="{{aluno.cards}}" target="_blank">
+			<h2>{{ card.nome }}</h2>
+			{% if card.link1 %}
+			<a href="{{card.link1}}" target="_blank">
 				<button>Cards</button></a>
 			{% else %}
 			<a href="#">
-				<button  disabled>Cards</button></a>
+				<button disabled>Cards</button></a>
 			{% endif %}
-				
-
-			<!-- <a href="https://anapaulamaximo.github.io/Mega-Burguer/" target="_blank">
+			{% if card.link2 %}
+			<a href="{{card.link2}}" target="_blank">
+				<button>Jornal</button></a>
+			{% else %}
+			<a href="#">
+				<button disabled>Jornal</button></a>
+			{% endif %}
+			{% if card.link3 %}
+			<a href="{{card.link3}}" target="_blank">
 				<button>Cardápio Digital</button></a>
+			{% else %}
+			<a href="#">
+				<button disabled>Cardápio Digital</button></a>
+			{% endif %}		
+
+			<!-- 
 
 			<a href="https://anapaulamaximo.github.io/Projeto-BioGraphs/" target="_blank">
 				<button>Biografia</button></a>
