@@ -67,7 +67,7 @@ cards = [
      'link2': 'https://liviadmatos.github.io/noticias'},
 
     {'nome':'Lorena Rinaldo Moreira',
-     'link1':'https://lorena-rinaldo.github.io/link1-pokemon/',
+     'link1':'https://lorena-rinaldo.github.io/cards-pokemon/',
      'link2':'https://lorena-rinaldo.github.io/GNN-News'},
 
     {'nome':'Lucas Assis Andrela',
@@ -75,7 +75,7 @@ cards = [
      'link2':'https://lucasandrela.github.io/douglas'},
 
     {'nome':'Luiz Felipe de Lima Barros',
-     'link1':'https://luizfelipebarros.github.io/Project-link1',
+     'link1':'https://luizfelipebarros.github.io/Project-cards/',
      'link2':'https://luizfelipebarros.github.io/site-de-noticias'},
 
     {'nome':'Maria Júllia Schimidt Ott Prestes',
@@ -99,7 +99,8 @@ cards = [
      'link2':'https://pablo-gomes.github.io/site-noticia/'},
 
     {'nome':'Pedro Henrique Francisconi Ferreira',
-     'link1':'https://pedrofrancisconi.github.io/PokeNBa'},
+     'link1':'https://pedrofrancisconi.github.io/PokeNBa',
+     'link2':'https://pedrofrancisconi.github.io/Jornal/'},
 
     {'nome':'Pedro Henrique Vasconcelos Matilde',
      'link1':'https://pedrohenriquevm.github.io/Projetos',
