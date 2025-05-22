@@ -12,7 +12,8 @@ cards = [
       'link2':'https://beatriz-sousa-andrade.github.io/Jornal/'},
 
     {'nome':'Daniel Pupo de Morais Santos',
-     'link1':'https://danielpupo.github.io/Cards-Futsal'},
+     'link1':'https://danielpupo.github.io/Cards-Futsal',
+     'link2':'https://danielpupo.github.io/Jornal1'},
 
     {'nome':'Emannoel Henrique Soares de Oliveira',
      'link1':'https://emannoel-henrique.github.io/Projetos-DS',
