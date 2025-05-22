@@ -39,7 +39,7 @@ cards = [
      'link2':'https://isajuca.github.io/noticias_economia'},
 
     {'nome':'João Guilherme Barros Arruda',
-     'link1':'https://jgarrudaa.github.io/Card-de-Filmes/',
+     'link1':'https://jgarrudaa.github.io/card-de-filmes/',
      'link2':'https://jgarrudaa.github.io/jornal-cinenews'},
 
     {'nome':'João Pedro Stadler Roza Santos',
@@ -59,7 +59,7 @@ cards = [
      'link2':'https://john-cristopher.github.io/Jornal-MotorSport'},
 
     {'nome':'Julio Aurélio Souza',
-     'link1':'https://julio-aurelio.github.io/SENAI',
+     'link1':'https://julio-aurelio.github.io/Pokedex_151_pokemons/',
      'link2':'https://julio-aurelio.github.io/projeto_jornal-main'},
 
     {'nome':'Livia Domingues Matos',
@@ -87,7 +87,7 @@ cards = [
      'link2':'https://omaurojunior.github.io/jornal-mauro'},
 
     {'nome':'Mayara Alves de Oliveira',
-     'link1':'https://mayaa-lves.github.io/books.link1.b',
+     'link1':'https://mayaa-lves.github.io/books.cards.b/',
      'link2':'https://mayaa-lves.github.io/GOLDEN-30-nba'},
 
     {'nome':'Nicolly Oliveira dos Santos',
@@ -106,7 +106,9 @@ cards = [
      'link2':'https://pedrohenriquevm.github.io/Noticias-Camp.-Brasileiro/'},
 
     {'nome':'Pedro Vitor Barros de Morais',
-     'link1':'https://pedromorais15.github.io/pedro-page'},
+     'link1':'https://pedromorais15.github.io/pedro-page',
+     'link2':'https://pedromorais15.github.io/pedro/'},
+
 
     {'nome':'Pietro Rodrigues Torresani Mantuan',
      'link1':'https://mantuanpietro.github.io/CARDS',
@@ -117,7 +119,7 @@ cards = [
      'link2':'https://rebecadiniz.github.io/ECONOMIA-BRASIL/'},
 
     {'nome':'Vinicius Mariozi Oliveira',
-     'link1':'https://viniciusmariozioliveira.github.io/link1',
+     'link1':'https://viniciusmariozioliveira.github.io/cards/',
      'link2':'https://viniciusmariozioliveira.github.io/Teste-Jornal/'},
 
     {'nome':'Yan Matheus Proença Camargo',
