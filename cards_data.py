@@ -56,7 +56,8 @@ cards = [
 
     {'nome':'Joaquim Antonio dos Santos Neto',
      'link1':'https://joaquimneto17.github.io/Elenco-Santos',
-     'link2':'https://joaquimneto17.github.io/NetGol/'},
+     'link2':'https://joaquimneto17.github.io/NetGol/',
+     'link3':'https://joaquimneto17.github.io/Projeto-Card-pio/'},
 
     {'nome':'John Cristopher de Sousa',
      'link1':'https://john-cristopher.github.io/card_carros',
@@ -96,7 +97,8 @@ cards = [
 
     {'nome':'Mayara Alves de Oliveira',
      'link1':'https://mayaa-lves.github.io/books.cards.b/',
-     'link2':'https://mayaa-lves.github.io/GOLDEN-30-nba'},
+     'link2':'https://mayaa-lves.github.io/GOLDEN-30-nba',
+     'link3':'https://mayaa-lves.github.io/Projeto-Card-pio/'},
 
     {'nome':'Nicolly Oliveira dos Santos',
      'link1':'https://nicollyoliveiras.github.io/Cards.oth',
@@ -130,7 +132,8 @@ cards = [
 
     {'nome':'Vinicius Mariozi Oliveira',
      'link1':'https://viniciusmariozioliveira.github.io/cards/',
-     'link2':'https://viniciusmariozioliveira.github.io/Teste-Jornal/'},
+     'link2':'https://viniciusmariozioliveira.github.io/Teste-Jornal/',
+     'link3':'https://viniciusmariozioliveira.github.io/Projeto-Cardapio/'},
 
     {'nome':'Yan Matheus Proença Camargo',
      'link1':'https://yan-proenca.github.io/card-sombras-cicatrizes',
