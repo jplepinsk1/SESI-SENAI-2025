@@ -38,7 +38,8 @@ cards = [
 
     {'nome':'Isadora Jucá de Lima',
      'link1':'https://isajuca.github.io/card-dogs',
-     'link2':'https://isajuca.github.io/noticias_economia'},
+     'link2':'https://isajuca.github.io/noticias_economia',
+     'link3':'https://isajuca.github.io/Projeto-Card-pio'},
 
     {'nome':'João Guilherme Barros Arruda',
      'link1':'https://jgarrudaa.github.io/card-de-filmes/',
