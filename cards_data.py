@@ -21,7 +21,8 @@ cards = [
 
     {'nome':'Felipe Barros Souza',
      'link1':'https://barros-sz.github.io/Cards-Sobre-V-F',
-     'link2':'https://barros-sz.github.io/Jornal-do-Barros/'},
+     'link2':'https://barros-sz.github.io/Jornal-do-Barros/',
+     'link3':'https://barros-sz.github.io/Sakura-Sushi-cardapio/'},
 
     {'nome':'Felix Fonseca Nogueira',
      'link1':'https://fonseca-felix.github.io/felix.card',
@@ -41,7 +42,8 @@ cards = [
 
     {'nome':'João Guilherme Barros Arruda',
      'link1':'https://jgarrudaa.github.io/card-de-filmes/',
-     'link2':'https://jgarrudaa.github.io/jornal-cinenews'},
+     'link2':'https://jgarrudaa.github.io/jornal-cinenews',
+     'link3':'https://jgarrudaa.github.io/cardapio/'},
 
     {'nome':'João Pedro Stadler Roza Santos',
      'link1':'https://jpsantosx.github.io/card-de-jogos',
@@ -49,7 +51,8 @@ cards = [
 
     {'nome':'João Victor Marcondes M. Barbosa de Queiroz',
      'link1':'https://jvictormarcon.github.io/Cards/',
-     'link2':'https://jvictormarcon.github.io/POP-NEWS/'},
+     'link2':'https://jvictormarcon.github.io/POP-NEWS/',
+     'link3':'https://jvictormarcon.github.io/Projeto-Cardapio/'},
 
     {'nome':'Joaquim Antonio dos Santos Neto',
      'link1':'https://joaquimneto17.github.io/Elenco-Santos',
@@ -61,7 +64,8 @@ cards = [
 
     {'nome':'Julio Aurélio Souza',
      'link1':'https://julio-aurelio.github.io/Pokedex_151_pokemons/',
-     'link2':'https://julio-aurelio.github.io/projeto_jornal-main'},
+     'link2':'https://julio-aurelio.github.io/projeto_jornal-main',
+     'link3':'https://julio-aurelio.github.io/projeto-cardapio/'},
 
     {'nome':'Livia Domingues Matos',
      'link1':'https://liviadmatos.github.io/upgraded-telegram',
@@ -85,7 +89,8 @@ cards = [
 
     {'nome':'Mauro José da Silva Junior',
      'link1':'https://omaurojunior.github.io/Estruturando-site',
-     'link2':'https://omaurojunior.github.io/jornal-mauro'},
+     'link2':'https://omaurojunior.github.io/jornal-mauro',
+     'link3':'https://omaurojunior.github.io/cardapio/'},
 
     {'nome':'Mayara Alves de Oliveira',
      'link1':'https://mayaa-lves.github.io/books.cards.b/',
