@@ -60,7 +60,8 @@ cards = [
 
     {'nome':'John Cristopher de Sousa',
      'link1':'https://john-cristopher.github.io/card_carros',
-     'link2':'https://john-cristopher.github.io/Jornal-MotorSport'},
+     'link2':'https://john-cristopher.github.io/Jornal-MotorSport',
+     'link3':'https://john-cristopher.github.io/La-Bella-Trattoria/'},
 
     {'nome':'Julio Aurélio Souza',
      'link1':'https://julio-aurelio.github.io/Pokedex_151_pokemons/',
@@ -73,7 +74,8 @@ cards = [
 
     {'nome':'Lorena Rinaldo Moreira',
      'link1':'https://lorena-rinaldo.github.io/cards-pokemon/',
-     'link2':'https://lorena-rinaldo.github.io/GNN-News'},
+     'link2':'https://lorena-rinaldo.github.io/GNN-News',
+     'link3':'https://lorena-rinaldo.github.io/Sakura-Sushi/'},
 
     {'nome':'Lucas Assis Andrela',
      'link1':'https://lucasandrela.github.io/Cards',
