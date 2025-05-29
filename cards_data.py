@@ -112,7 +112,8 @@ cards = [
 
     {'nome':'Pedro Henrique Vasconcelos Matilde',
      'link1':'https://pedrohenriquevm.github.io/Projetos',
-     'link2':'https://pedrohenriquevm.github.io/Noticias-Camp.-Brasileiro/'},
+     'link2':'https://pedrohenriquevm.github.io/Noticias-Camp.-Brasileiro/',
+     'link3':'https://pedrohenriquevm.github.io/Projeto-Card-pio/'},
 
     {'nome':'Pedro Vitor Barros de Morais',
      'link1':'https://pedromorais15.github.io/pedro-page',
