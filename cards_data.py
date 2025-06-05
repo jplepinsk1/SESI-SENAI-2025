@@ -111,11 +111,16 @@ cards = [
 
     {'nome':'Pablo Gomes da Silva',
      'link1':'https://pablo-gomes.github.io/Cards-carros-de-luxo',
-     'link2':'https://pablo-gomes.github.io/site-noticia/'},
+     'link2':'https://pablo-gomes.github.io/site-noticia/',
+     'link3':'https://pablo-gomes.github.io/Cardapio'},
+
 
     {'nome':'Pedro Henrique Francisconi Ferreira',
      'link1':'https://pedrofrancisconi.github.io/PokeNBa',
-     'link2':'https://pedrofrancisconi.github.io/Jornal/'},
+     'link2':'https://pedrofrancisconi.github.io/Jornal/',
+     'link3':'https://pedrofrancisconi.github.io/Rocket-burger'},
+
+
 
     {'nome':'Pedro Henrique Vasconcelos Matilde',
      'link1':'https://pedrohenriquevm.github.io/Projetos',
@@ -146,5 +151,6 @@ cards = [
 
     {'nome':'Yan Matheus Proença Camargo',
      'link1':'https://yan-proenca.github.io/card-sombras-cicatrizes',
-     'link2':'https://yan-proenca.github.io/site-about-tech/'}    
+     'link2':'https://yan-proenca.github.io/site-about-tech/',
+     'link3':'https://yan-proenca.github.io/hamburgueria-cardapio'}    
 ]
