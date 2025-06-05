@@ -1,7 +1,8 @@
 cards = [
     {'nome':'Ana Beatriz Magalhães Bicudo',
      'link1':'https://anabeatriz-mb.github.io/automatic-adventure/',
-     'link2':'https://anabeatriz-mb.github.io/pagina-de-noticia/'},
+     'link2':'https://anabeatriz-mb.github.io/pagina-de-noticia/',
+     'link3':'https://anabeatriz-mb.github.io/cardapio'},
 
     {'nome':'Ana Clara Mendes Proença',
       'link1':'https://anaclaramendes399.github.io/Projeto-Certo',
@@ -14,7 +15,9 @@ cards = [
 
     {'nome':'Daniel Pupo de Morais Santos',
      'link1':'https://danielpupo.github.io/Cards-Futsal',
-     'link2':'https://danielpupo.github.io/Jornal1'},
+     'link2':'https://danielpupo.github.io/Jornal1',
+     'link3':'https://danielpupo.github.io/Cardapio-Original-'},
+
 
     {'nome':'Emannoel Henrique Soares de Oliveira',
      'link1':'https://emannoel-henrique.github.io/Projetos-DS',
@@ -27,7 +30,9 @@ cards = [
 
     {'nome':'Felix Fonseca Nogueira',
      'link1':'https://fonseca-felix.github.io/felix.card',
-     'link2':'https://fonseca-felix.github.io/wireframe'},
+     'link2':'https://fonseca-felix.github.io/wireframe',
+     'link3':'https://fonseca-felix.github.io/f3liz'},
+
 
     {'nome':'Guilherme da Costa Silva',
      'link1':'https://glcost.github.io/Trabalho-de-Cards',
