@@ -41,7 +41,9 @@ cards = [
 
     {'nome':'Isabelly Ferreira de Lima',
      'link1':'https://isabelly-ferreira.github.io/Projeto-Cards/',
-     'link2':'https://isabelly-ferreira.github.io/Pagina-de-Noticia'},
+     'link2':'https://isabelly-ferreira.github.io/Pagina-de-Noticia',
+     'link3':'https://isabelly-ferreira.github.io/Cardapio'},
+
 
     {'nome':'Isadora Jucá de Lima',
      'link1':'https://isajuca.github.io/card-dogs',
@@ -79,7 +81,9 @@ cards = [
 
     {'nome':'Livia Domingues Matos',
      'link1':'https://liviadmatos.github.io/upgraded-telegram',
-     'link2': 'https://liviadmatos.github.io/noticias'},
+     'link2': 'https://liviadmatos.github.io/noticias',
+     'link3':'https://liviadmatos.github.io/cardapio'},
+
 
     {'nome':'Lorena Rinaldo Moreira',
      'link1':'https://lorena-rinaldo.github.io/cards-pokemon/',
@@ -92,11 +96,16 @@ cards = [
 
     {'nome':'Luiz Felipe de Lima Barros',
      'link1':'https://luizfelipebarros.github.io/Project-cards/',
-     'link2':'https://luizfelipebarros.github.io/site-de-noticias'},
+     'link2':'https://luizfelipebarros.github.io/site-de-noticias',
+     'link3':'https://luizfelipebarros.github.io/Projeto-Card-pio/'},
+
 
     {'nome':'Maria Júllia Schimidt Ott Prestes',
      'link1':'https://mariajschimidt.github.io/flores-tipos',
-     'link2':'https://mariajschimidt.github.io/wireframe-mj'},
+     'link2':'https://mariajschimidt.github.io/wireframe-mj',
+     'link3':'https://mariajschimidt.github.io/projeto-cardapio'},
+
+
 
     {'nome':'Mauro José da Silva Junior',
      'link1':'https://omaurojunior.github.io/Estruturando-site',
