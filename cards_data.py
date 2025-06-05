@@ -9,7 +9,8 @@ cards = [
 
     {'nome':'Beatriz Sousa de Andrade',
       'link1':'https://beatriz-sousa-andrade.github.io/filmes-de-terror-classicos',
-      'link2':'https://beatriz-sousa-andrade.github.io/Jornal/'},
+      'link2':'https://beatriz-sousa-andrade.github.io/Jornal/',
+      'link3':'https://beatriz-sousa-andrade.github.io/Sakura-Sushi/'},
 
     {'nome':'Daniel Pupo de Morais Santos',
      'link1':'https://danielpupo.github.io/Cards-Futsal',
@@ -30,7 +31,8 @@ cards = [
 
     {'nome':'Guilherme da Costa Silva',
      'link1':'https://glcost.github.io/Trabalho-de-Cards',
-     'link2':'https://glcost.github.io/noticias2'},
+     'link2':'https://glcost.github.io/noticias2',
+     'link3':'https://glcost.github.io/Projeto-Card-pio/'},
 
     {'nome':'Isabelly Ferreira de Lima',
      'link1':'https://isabelly-ferreira.github.io/Projeto-Cards/',
@@ -103,7 +105,9 @@ cards = [
 
     {'nome':'Nicolly Oliveira dos Santos',
      'link1':'https://nicollyoliveiras.github.io/Cards.oth',
-     'link2':'https://nicollyoliveiras.github.io/jornalEcoNewss'},
+     'link2':'https://nicollyoliveiras.github.io/jornalEcoNewss',
+     'link3':'https://nicollyoliveiras.github.io/restaurantesakurasushi'},
+
 
     {'nome':'Pablo Gomes da Silva',
      'link1':'https://pablo-gomes.github.io/Cards-carros-de-luxo',
@@ -125,11 +129,15 @@ cards = [
 
     {'nome':'Pietro Rodrigues Torresani Mantuan',
      'link1':'https://mantuanpietro.github.io/CARDS',
-     'link2':'https://mantuanpietro.github.io/Kings-league-SENAI'},
+     'link2':'https://mantuanpietro.github.io/Kings-league-SENAI',
+     'link3':'https://mantuanpietro.github.io/Projeto-Cardapio/'},
+
 
     {'nome':'Rebeca Diniz Gonçalves',
      'link1':'https://rebecadiniz.github.io/estudo-da-filosofia/',
-     'link2':'https://rebecadiniz.github.io/ECONOMIA-BRASIL/'},
+     'link2':'https://rebecadiniz.github.io/ECONOMIA-BRASIL/',
+     'link3':'https://rebecadiniz.github.io/cardapio/'},
+
 
     {'nome':'Vinicius Mariozi Oliveira',
      'link1':'https://viniciusmariozioliveira.github.io/cards/',
