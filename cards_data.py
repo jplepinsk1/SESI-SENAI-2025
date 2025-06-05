@@ -143,7 +143,9 @@ cards = [
 
     {'nome':'Pedro Vitor Barros de Morais',
      'link1':'https://pedromorais15.github.io/pedro-page',
-     'link2':'https://pedromorais15.github.io/pedro/'},
+     'link2':'https://pedromorais15.github.io/pedro/',
+     'link3':'https://pedromorais15.github.io/Cardapio'},
+
 
 
     {'nome':'Pietro Rodrigues Torresani Mantuan',
