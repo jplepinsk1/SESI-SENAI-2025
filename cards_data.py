@@ -34,7 +34,7 @@ cards = [
     {'nome':'Felix Fonseca Nogueira',
      'link1':'https://fonseca-felix.github.io/felix.card',
      'link2':'https://fonseca-felix.github.io/wireframe',
-     'link3':'https://fonseca-felix.github.io/f3liz'},
+     'link3':'https://fonseca-felix.github.io/Cardapio_felizz/'},
 
 
     {'nome':'Guilherme da Costa Silva',
