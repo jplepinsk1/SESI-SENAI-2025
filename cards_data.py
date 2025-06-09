@@ -6,7 +6,9 @@ cards = [
 
     {'nome':'Ana Clara Mendes Proença',
       'link1':'https://anaclaramendes399.github.io/Projeto-Certo',
-      'link2':'https://anaclaramendes399.github.io/jornal/'},
+      'link2':'https://anaclaramendes399.github.io/jornal/',
+      'link3':'https://anaclaramendes399.github.io/projeto-card-pio/'},
+
 
     {'nome':'Beatriz Sousa de Andrade',
       'link1':'https://beatriz-sousa-andrade.github.io/filmes-de-terror-classicos',
@@ -21,7 +23,8 @@ cards = [
 
     {'nome':'Emannoel Henrique Soares de Oliveira',
      'link1':'https://emannoel-henrique.github.io/Projetos-DS',
-     'link2':'https://emannoel-henrique.github.io/GAMENEWS/'},
+     'link2':'https://emannoel-henrique.github.io/GAMENEWS/',
+     'link3':'https://emannoel-henrique.github.io/Cardapio-/'},
 
     {'nome':'Felipe Barros Souza',
      'link1':'https://barros-sz.github.io/Cards-Sobre-V-F',
@@ -57,7 +60,9 @@ cards = [
 
     {'nome':'João Pedro Stadler Roza Santos',
      'link1':'https://jpsantosx.github.io/card-de-jogos',
-     'link2':'https://jpsantosx.github.io/sitedenoticias'},
+     'link2':'https://jpsantosx.github.io/sitedenoticias',
+     'link3':'https://jpsantosx.github.io/Card-pio/'},
+
 
     {'nome':'João Victor Marcondes M. Barbosa de Queiroz',
      'link1':'https://jvictormarcon.github.io/Cards/',
@@ -92,7 +97,9 @@ cards = [
 
     {'nome':'Lucas Assis Andrela',
      'link1':'https://lucasandrela.github.io/Cards',
-     'link2':'https://lucasandrela.github.io/douglas'},
+     'link2':'https://lucasandrela.github.io/douglas',
+     'link3':'https://lucasandrela.github.io/Projeto-Cardapio/'},
+
 
     {'nome':'Luiz Felipe de Lima Barros',
      'link1':'https://luizfelipebarros.github.io/Project-cards/',
