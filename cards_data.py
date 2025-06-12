@@ -164,7 +164,7 @@ cards = [
     {'nome':'Rebeca Diniz Gonçalves',
      'link1':'https://rebecadiniz.github.io/estudo-da-filosofia/',
      'link2':'https://rebecadiniz.github.io/ECONOMIA-BRASIL/',
-     'link3':'https://rebecadiniz.github.io/cardapio/'},
+     'link3':'https://rebecadiniz.github.io/card-pio-'},
 
 
     {'nome':'Vinicius Mariozi Oliveira',
